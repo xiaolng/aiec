@@ -1,7 +1,5 @@
 In this tutorial, we will use AI models to detect objects in sky survey images. There are two notebooks, 
 
-![alt txt](figures/animation.gif)
-
 - [torch_intro.ipynb](torch_intro.ipynb)
 A introduction to pytorch and build a model to learn a circle
 
