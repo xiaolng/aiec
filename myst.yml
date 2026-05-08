@@ -2,8 +2,8 @@
 version: 1
 project:
   id: f1b47a47-ea0a-4caf-ba89-0c9b0dbc587a
-  title: AI through Echoes
-  # description:
+  # title: AI through Echoes
+  # description: Exploring AI through light echoes
   # keywords: []
   # authors: []
   # github:
@@ -21,9 +21,21 @@ project:
       file: chp2.md
       children:
         - file: vgg16.ipynb
+    - title: Chapter 3 - Convolutional Neural Network
+      file: chp2.md
+      children:
+        - file: vgg16.ipynb
+    - title: Chapter 4 - Time series
+      file: chp2.md
+      children:
+        - file: vgg16.ipynb
+
 
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: deep_nn.png
+    logo_text: AIEC
+    hide_title_block: false
+

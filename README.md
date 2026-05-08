@@ -1,4 +1,23 @@
-In this tutorial, we will use AI models to detect objects in sky survey images. There are two notebooks, 
+# AI with Light Echoes
+
+
+
+
+
+
+Understanding how AI learns through astrophysical transients and light echoes.
+
+
+## Topics
+
+- Neural networks
+- CNNs
+- Transformers
+- Rubin LSST
+- Time-domain astronomy
+- Light echoes
+
+
 
 ![alt txt](figures/animation.gif)
 
